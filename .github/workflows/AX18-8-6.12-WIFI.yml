@@ -1,4 +1,4 @@
-name: AX18-7-6.12-WIFI
+name: AX18-8-6.12-WIFI
 
 on:
   workflow_dispatch:
